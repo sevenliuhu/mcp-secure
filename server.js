@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com */
 /**
  * HOMO MCP Secure — MCP server with CloakBrowser anti-detection
  * 实际部署时通过 npx @modelcontextprotocol/sdk 包装
